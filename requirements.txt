@@ -1,1 +1,14 @@
 numpy
+pandas 
+tensorflow
+matplotlib
+keras
+scikit-learn
+pillow
+random2
+random-number
+seaborn
+opencv-python
+pydot
+pydot-ng
+graphviz
